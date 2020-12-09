@@ -1,0 +1,86 @@
+/*color and fonts*/ 
+body {
+	background-color: #eeeded; 
+	color: rgb(50, 50, 50);
+	font-family: 'lora', serif; 
+	font-size: 16px;
+	font-weight: lighter;
+}
+h1, h2 {
+	font-family: 'roboto' , sans-serif;
+}
+h1 {
+	color: #00587a;
+	font-weight: 900;
+	font-size: 40px;
+}
+h2 {
+	color: #132743;
+	font-size: 20px;
+	font-weight: lighter;
+	font-weight: 500; 
+}
+a {
+	font-family: 'roboto' , sans-serif;
+	text-decoration: none; 
+	color: blue; 
+	font-weight: 600;  
+	font-size: 16px; 
+}
+a:hover {
+	color: white;
+}
+/*custom design with class (99% of your design)*/ 
+.container {
+	width: 700px;
+	margin: 40px auto;
+}
+
+
+.card-white {
+	background-color: white; 
+	padding: 40px; 
+	box-shadow: 0px 10px 30px rgba (0,0,0,0.1); 
+	border-radius: 4px;
+	margin: 20px 0px; 
+	text-align: center; 
+}
+.img-circle {
+	border-radius: 50%; 
+}
+.btn-blue {
+	background-color: yellow; 
+	color: white;
+	padding: 15px 20px;
+}
+.list-inline {
+	list-style: none; 
+	padding-left: 0px; 
+}
+.list-inline li{
+	display: inline; 
+	padding: 10px; 
+}
+.list-inline i: hover {
+	font-size: 50px; 
+	color: rgb(230,230,230);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

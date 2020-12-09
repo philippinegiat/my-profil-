@@ -1,0 +1,32 @@
+/*color and fonts */ 
+body {
+	background-color: #eeeded; 
+	color: rgb(50, 50, 50);
+	font-family: 'lora', serif; 
+	font-size: 16px;
+	font-weight: lighter;
+}
+h1, h2 {
+	font-family: 'roboto' , sans-serif;
+}
+h1 {
+	color: #00587a;
+	font-weight: 900;
+	font-size: 40px;
+}
+h2 {
+	color: #132743;
+	font-size: 20px;
+	font-weight: lighter;
+	font-weight: 500; 
+}
+a {
+	font-family: 'roboto' , sans-serif;
+	text-decoration: none; 
+	color: blue; 
+	font-weight: 600;  
+	font-size: 16px; 
+}
+a:hover {
+	color: white;
+}
